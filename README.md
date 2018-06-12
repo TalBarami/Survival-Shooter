@@ -3,7 +3,7 @@
 Survival shooter game made as part of my unity tutorial.
 
 
-https://github.com/TalBarami/Survival-Shooter/blob/master/resources/s1.jpg
+![image1](https://github.com/TalBarami/Survival-Shooter/blob/master/resources/s1.jpg "image1")
 
 
-https://github.com/TalBarami/Survival-Shooter/blob/master/resources/s2.jpg
+![image2](https://github.com/TalBarami/Survival-Shooter/blob/master/resources/s2.jpg "image2")
